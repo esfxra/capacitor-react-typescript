@@ -1,0 +1,11 @@
+{
+  "appId": "io.capacitor.app",
+  "appName": "capacitor-app",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
